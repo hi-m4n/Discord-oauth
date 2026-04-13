@@ -1,0 +1,6 @@
+{
+  "name": "Discord Auth Explorer",
+  "description": "A secure Discord OAuth2 web application demonstrating authorization code flow, session management, and profile fetching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
